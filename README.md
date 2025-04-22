@@ -31,7 +31,7 @@ Here are some of the key projects I've worked on. Check them out below:
 - 🔐 [**Malware-Detection-XAI**](https://github.com/tanaytekon/malware-detection-xai): Malware detection using LightGBM and MLP + XAI with SHAP & LIME  
 - 💬 [**CommNet**](https://github.com/tanaytekon/CommNet): Sentiment and keyword prediction on YouTube comments using deep NLP models
 - 🦠 [**Covid-Risk-Prediction**](https://github.com/tanaytekon/Covid19-Risk-Prediction): Risk prediction for COVID-19 using clinical data and ML
-- ♻️ [**Garbage-Classification**](): Image-based garbage classification using classical ML and CNNs  
+- ♻️ [**Garbage-Classification**](https://github.com/merensoykok/Waste-Classification-by-Image): Image-based garbage classification using classical ML and CNNs  
 
 
 > 📍 You can find more in my repositories tab.
