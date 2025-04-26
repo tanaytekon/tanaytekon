@@ -2,7 +2,8 @@
 
 🎓 Final-year Artificial Intelligence Engineering student at Hacettepe University  
 🔬 Focused on NLP, data science, computer vision, machine learning, deep learning, and explainable AI  
-🚀 Candidate AI Engineer at Turkish Aerospace – Digital Transformation, working on NLP and computer vision systems.
+🚀 Candidate AI Engineer at Turkish Aerospace – Digital Transformation, working on NLP and computer vision systems  
+📫 How to reach me: **tanaytekon@hotmail.com**
 
 ---
 
@@ -34,15 +35,8 @@
 
 ## 📫 Connect with Me
 
-<a href="https://linkedin.com/in/tanaytekon" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/tanaytekon/" target="_blank">
-  <img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:tanaytekon@hotmail.com" target="_blank">
-  <img alt="Email" src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.linkedin.com/in/tanaytekon/)
 
 ---
 
