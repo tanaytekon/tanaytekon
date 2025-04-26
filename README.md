@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Tanay Tekön
 
-🎓 Final-year Artificial Intelligence Engineering student @ Hacettepe University  
+🎓 Final-year Artificial Intelligence Engineering student at Hacettepe University  
 🔬 Focused on NLP, data science, computer vision, machine learning, deep learning, and explainable AI  
-🚀 Candidate AI Engineer @ Turkish Aerospace – Digital Transformation, working on NLP and computer vision systems.
+🚀 Candidate AI Engineer at Turkish Aerospace – Digital Transformation, working on NLP and computer vision systems.
 
 ---
 
