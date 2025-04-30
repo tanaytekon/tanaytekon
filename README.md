@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tanay Tekön
 
 🎓 Final-year Artificial Intelligence Engineering student at Hacettepe University  
-🔬 Focused on NLP, data science, computer vision, machine learning, deep learning, and explainable AI  
+🔬 Focused on NLP, data science, computer vision, ML, DL, and explainable AI  
 🚀 Candidate AI Engineer at Turkish Aerospace – Digital Transformation, working on NLP and computer vision systems  
 📫 How to reach me: **tanaytekon@hotmail.com**
 
@@ -29,8 +29,8 @@
 ## 🧭 Currently Exploring
 
 - LLMs, multi-modal LLMs, and Retrieval-Augmented Generation (RAG)  
-- Real-world deployment of AI models with Docker & APIs  
-- Human-centered AI and interpretable ML systems (XAI)
+- Deployment of AI models with Docker & APIs  
+- Interpretable ML systems (XAI)
 
 ---
 
