@@ -36,8 +36,8 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.linkedin.com/in/tanaytekon/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tanaytekon/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/tanaytekon/)
 
 ---
 
